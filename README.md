@@ -1,4 +1,4 @@
-# Matricium (Avec Yahya El Janati)
+# Matricium (Avec Yahia El Janati)
 Un outil puissant de calcul matriciel
 <p class="has-line-data" data-line-start="0" data-line-end="13">Objectifs :<br>
 o   La conception d’une structure permettant une écriture intuitive des matrices.<br>
