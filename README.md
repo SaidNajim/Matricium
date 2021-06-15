@@ -1,3 +1,5 @@
+# Matricium
+Un outil puissant de calcul matriciel
 <p class="has-line-data" data-line-start="0" data-line-end="13">Objectifs :<br>
 o   La conception d’une structure permettant une écriture intuitive des matrices.<br>
 o   La création d’une grande variété de méthodes agissant sur une ou plusieurs matrices (Scaling)(2)<br>
